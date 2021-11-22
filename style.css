@@ -5,10 +5,22 @@ h1 {
 
 body {
 
-	background-color: #bc9ead	;
+	color: #ffffff ;
+
+	background-color: #91e874	;
 }
 
+.header {
+
+	background-color: #b51b3c	;
+}
+
+.sidebar {
+
+	background-color: #43ea0b	;
+}
+
+
 .button {
-	color: black ;
-	background-color: black;
+
 }
