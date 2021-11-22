@@ -1,16 +1,21 @@
 h1 {
 	color: #ad1e1b;
+	font-size: 20px;
 
+}
+
+
+h2 {
+	color: #911512;
 }
 
 body {
 
-	color: #ffffff ;
-
+	color: #00000 ;
 	background-color: #91e874	;
 }
 
-.header {
+.encabezado {
 
 	background-color: #b51b3c	;
 }
@@ -22,5 +27,28 @@ body {
 
 
 .button {
-
+	align: center;
+	color: blue;
+	background-color: #968599;
+	color: white;
 }
+
+.button:hover {
+	align: center;
+	color: blue;
+	background-color: white;
+	font-weight: bold;
+}
+
+.button:focus {
+	align: center;
+	color: teal;
+	background-color: white;
+	font-weight: bold;
+}
+
+.tabla {
+	color: #8e8b8c;
+	border: 5px solid yellow;
+}
+
